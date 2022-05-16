@@ -1,6 +1,6 @@
-## Hey hey :v:
+# Hey hey :v:
 
-### 👩‍💻Bio
+## 👩‍💻Bio
 
 🔭I am currently a **Course Developer** specializing in HTML and CSS. I also take on various front-end challenges on a day-to-day basis.
 
